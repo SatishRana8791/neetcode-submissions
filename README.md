@@ -34,7 +34,7 @@ I am actively preparing for **Software Engineering placements**, focusing on mas
 
 ## 📊 Stats
 
-* 🟢 Problems Solved on Leetcode: 240+
+* 🟢 Problems Solved on Leetcode: 270+
 * 📅 Daily Practice Commitment
 
 ---
